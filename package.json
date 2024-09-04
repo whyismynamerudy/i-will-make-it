@@ -1,0 +1,11 @@
+{
+  "name": "i-will-make-it",
+  "version": "1.0.0",
+  "description": "countdown until july 19 next year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

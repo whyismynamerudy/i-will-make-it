@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Countdown New Tab",
+    "version": "1.0",
+    "description": "Shows time left until July 19 next year and custom background image",
+    "permissions": ["storage"],
+    "chrome_url_overrides": {
+      "newtab": "newtab.html"
+    }
+  }
