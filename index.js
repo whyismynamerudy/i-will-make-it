@@ -1,6 +1,6 @@
 function updateCountdown() {
     const now = new Date();
-    const targetDate = new Date(2025, 6, 19); // July is month 6 (0-indexed)
+    const targetDate = new Date(2026, 6, 19); // July is month 6 (0-indexed)
     
     if (now > targetDate) {
       targetDate.setFullYear(currentYear + 2);
